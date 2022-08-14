@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+	"storyName": "phantasm cover",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "fleet",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "zbenson-week",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"parents-christmas",
-		"bf",
-		"gf"
+		"",
+		"sad",
+		""
 	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"bensontasm",
+			"benson-sad",
+			[
+				26,
+				20,
+				60
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "fleet benson",
+	"hiddenUntilUnlocked": true
 }

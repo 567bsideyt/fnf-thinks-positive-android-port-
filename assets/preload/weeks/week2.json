@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "no yelling              .",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "office",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "apark-week",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"",
+		"office",
+		""
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"unyelling",
+			"benson-office",
+			[
+				166,
+				180,
+				215
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "yelling",
+	"hiddenUntilUnlocked": false
 }
